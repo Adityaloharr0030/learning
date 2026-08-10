@@ -1,3 +1,5 @@
+package dsa_questions;
+
 import java.io.*;
 import java.util.*;
 
