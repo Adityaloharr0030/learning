@@ -1,5 +1,7 @@
 package dsa_questions;
 
+import jdk.dynalink.beans.StaticClass;
+
 import java.math.BigInteger;
 import java.util.Scanner;
 
